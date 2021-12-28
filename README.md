@@ -1,4 +1,5 @@
 # keyboard-keydous-nj80
+User manual and Software for Keydous NJ80 Keyboard 
 
 ## Software
 - Download from official site - http://www.keydous.com/qdxz
