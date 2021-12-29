@@ -1,4 +1,4 @@
-# keyboard-keydous-nj80
+# Keydous NJ80 Keyboard
 User manual and Software for Keydous NJ80 Keyboard 
 
 ## Software
